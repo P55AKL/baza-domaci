@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "663ba35b81ecb97ab9f27ccf"
+  },
+  "ime": "Velo misto",
+  "vrsta": "pizzeria",
+  "adresa": "split",
+  "hrana": "pizze",
+  "telefon": "0951112222"
+},
+{
+  "_id": {
+    "$oid": "663ba3c581ecb97ab9f27cd0"
+  },
+  "ime": "Malo misto",
+  "vrsta": "Restoran",
+  "adresa": "Poljicka cesta 72",
+  "hrana": "Morska hrana",
+  "telefon": "0958887777"
+},
+{
+  "_id": {
+    "$oid": "663ba41081ecb97ab9f27cd1"
+  },
+  "naziv": "Mijo",
+  "vrsta": "Konoba",
+  "adresa": "put skole",
+  "hrana": "Tradicionalna",
+  "telefon": "021365875"
+},
+{
+  "_id": {
+    "$oid": "663ba46b81ecb97ab9f27cd2"
+  },
+  "naziv": "Skoljka",
+  "vrsta": "Restoran",
+  "adresa": "Podstrana",
+  "Hrana": "Riblji meni",
+  "telefon": "021321123"
+},
+{
+  "_id": {
+    "$oid": "663bad436ac036c3a5208e4c"
+  },
+  "vrsta": "Kralj",
+  "adresa": "Podstrana",
+  "hrana": "Slatkisi",
+  "telefon": "4",
+  "__v": 0
+}]
